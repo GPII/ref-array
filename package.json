@@ -1,5 +1,5 @@
 {
-  "name": "ref-array",
+  "name": "@gpii/ref-array",
   "description": "Create C \"array\" instances on top of Buffers",
   "keywords": [
     "array",
@@ -9,7 +9,7 @@
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/ref-array.git"
+    "url": "git://github.com/GPII/ref-array.git"
   },
   "main": "./lib/array.js",
   "license": "MIT",
@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "ref": "javihernandez/ref#node-12"
+    "@gpii/ref": "2.0.0"
   },
   "devDependencies": {
     "bindings": "1",
