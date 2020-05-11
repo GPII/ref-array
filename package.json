@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "@gpii/ref": "2.0.0"
+    "ref": "javihernandez/ref#GPII-4140"
   },
   "devDependencies": {
     "bindings": "1",
